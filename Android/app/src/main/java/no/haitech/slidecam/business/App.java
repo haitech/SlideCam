@@ -1,4 +1,4 @@
-package no.altibox.slidecam.business;
+package no.haitech.slidecam.business;
 
 import android.app.Application;
 

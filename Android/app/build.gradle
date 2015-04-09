@@ -7,7 +7,7 @@ android {
     buildToolsVersion "22.0.1"
 
     defaultConfig {
-        applicationId "no.altibox.slidecam"
+        applicationId "no.haitech.slidecam"
         minSdkVersion 18
         targetSdkVersion 22
         versionCode 1

@@ -1,4 +1,4 @@
-package no.altibox.slidecam;
+package no.haitech.slidecam;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

@@ -1,4 +1,4 @@
-package no.altibox.slidecam.userInteraction;
+package no.haitech.slidecam.userInteraction;
 
 import android.os.Bundle;
 import android.support.v4.widget.DrawerLayout;
@@ -8,8 +8,8 @@ import android.support.v7.widget.Toolbar;
 
 import butterknife.ButterKnife;
 import butterknife.InjectView;
-import no.altibox.slidecam.R;
-import no.altibox.slidecam.userInteraction.widgets.drawerToggle.CustomActionBarDrawerToggle;
+import no.haitech.slidecam.R;
+import no.haitech.slidecam.userInteraction.widgets.drawerToggle.CustomActionBarDrawerToggle;
 
 
 public class MainActivity extends ActionBarActivity {

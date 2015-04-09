@@ -1,4 +1,4 @@
-package no.altibox.slidecam.userInteraction.widgets.drawerToggle;
+package no.haitech.slidecam.userInteraction.widgets.drawerToggle;
 
 import android.app.Activity;
 import android.support.v4.widget.DrawerLayout;
