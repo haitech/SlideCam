@@ -1,9 +1,10 @@
-package no.altibox.slidecam;
+package no.altibox.slidecam.userInteraction;
 
 import android.app.Activity;
 import android.os.Bundle;
 
 import butterknife.ButterKnife;
+import no.altibox.slidecam.R;
 
 
 public class MainActivity extends Activity {
