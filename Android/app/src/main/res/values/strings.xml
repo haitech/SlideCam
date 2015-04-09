@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">SlideCam</string>
+    <string name="general_drawer_open">open</string>
+    <string name="general_drawer_closed">closed</string>
 </resources>
